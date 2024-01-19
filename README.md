@@ -1,4 +1,4 @@
-# [The Absolute Beginner Guide to React](https://www.udemy.com/course/synkronus-reacjs-fundamentos "...")
+# [The Absolute Beginner Guide to React](https://www.youtube.com/playlist?list=PLXEZmkFmVSZC3wuoBEMuKp3EHuDQjKn6m "...")
 
 **Description**
 
